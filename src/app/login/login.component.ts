@@ -9,7 +9,7 @@ import { HardcodedAuthenticationService } from '../service/hardcoded-authenticat
 })
 export class LoginComponent implements OnInit {
 
-  username='RamGhimire'
+  username='aliengurung'
   password=''
   errorMessage='Invalid Credentials'
   InvalidCredentials=false
